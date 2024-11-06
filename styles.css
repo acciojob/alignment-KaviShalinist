@@ -1,1 +1,30 @@
+.middle {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+.middle td {
+  border: 1px solid black;
+  padding: 1px;
+  margin: 1px;
+}
+
+/* Alignment Classes */
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+/* Background Color Classes */
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
 /*  your css code here. If applicable */
